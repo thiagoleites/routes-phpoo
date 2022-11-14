@@ -1,0 +1,15 @@
+{
+    "name": "thiago/routes-phpoo",
+    "require": {
+        "league/plates": "^3.4",
+        "symfony/var-dumper": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        },
+        "files": [
+            
+        ]
+    }
+}
